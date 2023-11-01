@@ -13,5 +13,3 @@ function NavBar() {
 }
 
 export default NavBar;
-
-explort ;
